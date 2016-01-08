@@ -1,4 +1,5 @@
 file 2
 line 1
 line 2
+feature/A add this line:1
 line 3
